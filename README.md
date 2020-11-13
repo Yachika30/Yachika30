@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here are some ideas to get you started:
+
+- 🔭 I’m currently a Software engineering student
+- 🌱 I’m currently learning Machine Learning
+- 👯 Web development excites me too
+- ✨ I am also into designing stuffs anything related to art blows my mind 
+     Earlier I tried graphic designing but recently got to know about UI/UX designing 
+     And that looks really appealing to me so I will surely try that soon.
+     
