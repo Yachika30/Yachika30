@@ -1,6 +1,6 @@
 <h2 align="center">Homeasy<h2>
   <h3 align="center">Home furnishing website</h3>
-  # Interior Home Design
+ ### Interior Home Design
 
 A website that  made for web designing skills. This website is made for a company which focuses on home interior design. 
 
