@@ -362,13 +362,7 @@ ol.type li a:hover {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-/* Testimonial Section */
-#testimonials{
-  text-align: center;
-  background-color: #008080;
-  color: #fff;
-}
-.testimonial-img{width:10% ;border-radius: 100%; margin:20px}
+
 /* Team Section */
 #team {
 	color: #fff;
