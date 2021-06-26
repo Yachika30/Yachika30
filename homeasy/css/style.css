@@ -171,7 +171,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-webkit-background-size: cover;
 	-moz-background-size: cover;*/
 	
-	background-color: #e5e5e5;
+	/*background-color: #e5e5e5;*/
 	background-size: cover;
 	-o-background-size: cover;
 	animation:slide 20s infinite;
