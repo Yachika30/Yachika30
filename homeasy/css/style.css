@@ -172,7 +172,23 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	animation:slide 20s infinite;
+	
 }
+@keyframes slide{
+	25%{
+	background:url(../img/intro-bg.jpg);
+	}
+	50%{
+	background:url(../img/intro-bg2.jpg);
+	}
+	75%{
+	background:url(../img/intro-bg3.jpg);
+	}
+	100%{
+	background:url(../img/intro-bg4.jpg);
+	}}
+
 .intro .overlay {
 	background: rgba(0,0,0,0.40);
 }
